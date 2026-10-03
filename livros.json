@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Memória de um Gato Viajante",
+    "sessaoNome": "s-1",
+    "sessaoNumero": 1,
+    "generos": [ "ficao-dramatica", "literatura-japonesa" ],
+    "tags": [ "classico", "emocionante" ],
+    "disponivel": true
+  },
+  {
+    "id": 2,
+    "titulo": "O Iluminado",
+    "sessaoNome": "s-1",
+    "sessaoNumero": 1,
+    "generos": [ "terror", "suspense" ],
+    "tags": [ "classico", "bestseller" ],
+    "disponivel": false
+  },
+  {
+    "id": 3,
+    "titulo": "Duna",
+    "sessaoNome": "s-2",
+    "sessaoNumero": 2,
+    "generos": [ "ficcao-cientifica", "aventura" ],
+    "tags": [ "epico", "espaco" ],
+    "disponivel": true
+  },
+  {
+    "id": 4,
+    "titulo": "O Hobbit",
+    "sessaoNome": "s-2",
+    "sessaoNumero": 2,
+    "generos": [ "fantasia", "aventura" ],
+    "tags": [ "classico", "magia" ],
+    "disponivel": true
+  },
+  {
+    "id": 5,
+    "titulo": "Garota Exemplar",
+    "sessaoNome": "s-3",
+    "sessaoNumero": 3,
+    "generos": [ "suspense", "misterio" ],
+    "tags": [ "psicologico", "reviravolta" ],
+    "disponivel": false
+  },
+  {
+    "id": 6,
+    "titulo": "Orgulho e Preconceito",
+    "sessaoNome": "s-4",
+    "sessaoNumero": 4,
+    "generos": [ "romance", "drama" ],
+    "tags": [ "classico", "epoca" ],
+    "disponivel": true
+  },
+  {
+    "id": 7,
+    "titulo": "Sapiens: Uma Breve História da Humanidade",
+    "sessaoNome": "s-5",
+    "sessaoNumero": 5,
+    "generos": [ "historia", "nao-ficcao" ],
+    "tags": [ "antropologia", "educacional" ],
+    "disponivel": true
+  },
+  {
+    "id": 8,
+    "titulo": "Neuromancer",
+    "sessaoNome": "s-2",
+    "sessaoNumero": 2,
+    "generos": [ "ficcao-cientifica" ],
+    "tags": [ "cyberpunk", "distopia" ],
+    "disponivel": true
+  },
+  {
+    "id": 9,
+    "titulo": "O Chamado de Cthulhu",
+    "sessaoNome": "s-1",
+    "sessaoNumero": 1,
+    "generos": [ "terror", "misterio" ],
+    "tags": [ "misterio-historico", "curto" ],
+    "disponivel": false
+  },
+  {
+    "id": 10,
+    "titulo": "Cem Anos de Solidão",
+    "sessaoNome": "s-4",
+    "sessaoNumero": 4,
+    "generos": [ "realismo-magico", "romance" ],
+    "tags": [ "classico", "premio-nobel" ],
+    "disponivel": true
+  }
+]
